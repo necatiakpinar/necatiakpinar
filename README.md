@@ -8,7 +8,7 @@ My gaming adventure, which started with Atari, led to my dream of developing a g
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [necatiakpinar1997@gmail.com](mailto:necatiakpinar1997@gmail.com)
-* 🧠  I'm learning Unreal Engine 5
+* 🧠  I'm working with Unity & Unreal Engine 5
 * ⚡  I'm a total passionate gamer since my childhood
 
 ### Skills
