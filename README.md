@@ -18,7 +18,7 @@ My gaming adventure, which started with Atari, led to my dream of developing a g
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt7dl_mfqvi6df60jEKN4l7SmHiTdY91euTzFq9Y4ROcpCupq)" width="36" height="36" alt="Swift" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt7dl_mfqvi6df60jEKN4l7SmHiTdY91euTzFq9Y4ROcpCupq)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt7dl_mfqvi6df60jEKN4l7SmHiTdY91euTzFq9Y4ROcpCupq)" width="36" height="36" alt="Swift" /></a>
   
 </p>
 
