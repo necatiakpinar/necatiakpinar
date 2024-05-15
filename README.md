@@ -1,7 +1,7 @@
 Hi 👋 I'm Necati Akpinar
 ===============================
 
-Senior Game Developer || Backend Developer || IOS Developer
+Senior Game Developer || Backend Developer
 ---------------------
 
 My gaming adventure, which started with Atari, led to my dream of developing a game one day. Because of the passion inside me, I started to develop games and make large projects that would take me to the next level in game development. I acquired the perspective needed to be a programmer through my ability to overcome the challenges I have faced.
