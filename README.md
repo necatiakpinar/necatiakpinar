@@ -4,11 +4,19 @@ Hi 👋 I'm Necati Akpinar
 Senior Game Developer | Full Stack Developer
 ---------------------
 
-My gaming adventure, which started with Atari, led to my dream of developing a game one day. Because of the passion inside me, I started to develop games and make large projects that would take me to the next level in game development. I acquired the perspective needed to be a programmer through my ability to overcome the challenges I have faced.
+I am a full-stack game developer and a dedicated problem solver with strong communication skills. Over the years, I've been committed to advancing my professional skills through a system of continuous learning and development.
+
+My backend expertise, particularly in .NET and Java Spring, allows me to design and implement scalable, robust server-side solutions that are essential for today’s data-driven applications. By leveraging these technologies, I can build systems that not only support but also elevate the user experience with reliable, well-optimized, and secure backend infrastructures.
+
+In pursuit of my dreams, I founded a gaming start-up and successfully released a PC game. This accomplishment has fueled my ambition to continue building innovative solutions and honing my engineering skills within the gaming industry.
+
+With expertise in multiple programming languages, including C#, C++, SQL, React, and Python, I excel at creating diverse solutions for complex challenges. My backend development skills are a cornerstone of my work, especially my proficiency in .NET and Java Spring, which further complement my experience in React Native, making me a well-rounded full-stack developer.
+
+I have gained valuable experience working in both corporate and start-up environments, giving me a deep understanding of Agile methodologies. Additionally, I have a solid background in data warehousing and Business Intelligence, which has enhanced my ability to handle complex backend data processes and integrations effectively.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [necatiakpinar1997@gmail.com](mailto:necatiakpinar1997@gmail.com)
-* 🧠  I'm working with Unity & .NET & Java Spring * React Native & Swift
+* 🧠  I'm working with Unity & .NET & Java Spring & React Native & Swift
 * ⚡  I'm a total passionate gamer since my childhood
 
 ### Skills
