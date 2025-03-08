@@ -6,7 +6,7 @@ Senior Game Developer | Full Stack Developer
 
 I am a full-stack game developer and a dedicated problem solver with strong communication skills. Over the years, I've been committed to advancing my professional skills through a system of continuous learning and development.
 
-My backend expertise, particularly in .NET and Java Spring, allows me to design and implement scalable, robust server-side solutions that are essential for today’s data-driven applications. By leveraging these technologies, I can build systems that not only support but also elevate the user experience with reliable, well-optimized, and secure backend infrastructures.
+My backend expertise, particularly in .NET, allows me to design and implement scalable, robust server-side solutions that are essential for today’s data-driven applications. By leveraging these technologies, I can build systems that not only support but also elevate the user experience with reliable, well-optimized, and secure backend infrastructures.
 
 In pursuit of my dreams, I founded a gaming start-up and successfully released a PC game. This accomplishment has fueled my ambition to continue building innovative solutions and honing my engineering skills within the gaming industry.
 
@@ -16,7 +16,7 @@ I have gained valuable experience working in both corporate and start-up environ
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [necatiakpinar1997@gmail.com](mailto:necatiakpinar1997@gmail.com)
-* 🧠  I'm working with Unity & .NET & Java Spring & React Native & Swift
+* 🧠  I'm working with Unity & Unreal Engine && .NET & React Native
 * ⚡  I'm a total passionate gamer since my childhood
 
 ### Skills
@@ -25,9 +25,7 @@ I have gained valuable experience working in both corporate and start-up environ
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="36" alt="Swift"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 
