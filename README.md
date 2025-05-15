@@ -19,6 +19,15 @@ I have gained valuable experience working in both corporate and start-up environ
 * 🧠  I'm working with Unity & Unreal Engine && .NET & React Native
 * ⚡  I'm a total passionate gamer since my childhood
 
+### 📺 Check Out My YouTube Channel
+
+<p align="center">
+  <a href="https://www.youtube.com/@fancasopedia" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Fancasopedia-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+</p>
+
+
 ### Skills
 
 
