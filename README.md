@@ -27,6 +27,12 @@ I have gained valuable experience working in both corporate and start-up environ
   </a>
 </p>
 
+<p align="center">
+  <a href="https://apps.apple.com/en/developer/necati-akpinar/id1591612276" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="55" alt="Download on the App Store"/>
+  </a>
+</p>
+
 
 ### Skills
 
